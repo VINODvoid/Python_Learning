@@ -1,5 +1,3 @@
-# Data Types
-
 -Number = 12345, 2+3j, 0.12345, 0b111
 -String = "Hello",'span',b'bytes',u'sp\xcn'
 -List = [1,2,3,4,5] , ['a','b','c','d'], [1,2,3,'a','b','c'] , [1,2,3,[4,5,6]], [1,2,3,[4,5,6,[7,8,9]]] , list(range(10))
@@ -12,6 +10,4 @@
 -Functions , modules , classes , objects
 -Advanced Types  : Decorators , Generators , Iterators,
 MetaProgramming
-
-
 
